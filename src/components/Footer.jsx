@@ -2,7 +2,7 @@ export default function Footer() {
   return (
     <footer>
       <p>
-        Designed &amp; Built with ❤️ by <span>Saurabh Sharma</span> &nbsp;·&nbsp;{' '}
+        Designed &amp; Built with ❤️ by <span>Sourabh Sharma</span> &nbsp;·&nbsp;{' '}
         <span>{new Date().getFullYear()}</span>
       </p>
       <p style={{ marginTop: '7px', fontSize: '.72rem' }}>

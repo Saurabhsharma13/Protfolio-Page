@@ -19,7 +19,7 @@ export default function About() {
         <div className="about-text reveal-left">
           <h3>Building the future, one commit at a time.</h3>
           <p>
-            I&apos;m <strong>Saurabh Sharma</strong>, a passionate software developer and data
+            I&apos;m <strong>Sourabh Sharma</strong>, a passionate software developer and data
             science enthusiast. I love turning complex problems into elegant, efficient solutions.
           </p>
           <p>

@@ -63,11 +63,11 @@ export default function Hero() {
         <img
           className="hero-avatar"
           src={`https://avatars.githubusercontent.com/u/109023386?v=4`}
-          alt="Saurabh Sharma"
+          alt="Sourabh Sharma"
         />
         <p className="hero-greeting">// welcome to my portfolio</p>
         <h1 className="hero-name">
-          I&apos;m <span className="glitch" data-text="Saurabh Sharma">Saurabh Sharma</span>
+          I&apos;m <span className="glitch" data-text="Sourabh Sharma">Sourabh Sharma</span>
         </h1>
         <div className="hero-role">
           <span className="typed-text">{typed}</span>
